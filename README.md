@@ -1,3 +1,5 @@
-<img src="https://github.com/ayushkpai/ayushkpai/blob/main/images/ayushpai.png" alt="" width="50" height="50">
+# <img src="https://raw.githubusercontent.com/ayushkpai/ayushkpai/main/images/ayushpai.png" width="25" alt="Ayush Pai"> Ayush Pai
 
-[Ayush Pai](https://ayushpai.com)
+## ayushkpai
+
+---
