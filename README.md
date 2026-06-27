@@ -1,5 +1,3 @@
-# ayushkpai Ayush Pai
-
 | Recomended | Password Manager | Dice |
 | :--- | :--- | :--- |
 | [Setup](https://github.com/ayushkpai/dotfiles) | [Tools](https://github.com/ayushkpai/password-manager-tools) | [C++](https://github.com/ayushkpai/dice-cpp) |
