@@ -1,13 +1,25 @@
-<div align="center">
+<table>
+<tr>
+<td align="center" width="720">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,100:302B63&height=220&section=header&text=Ayush%20Pai&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<br>
 
-# 👨‍💻 👋 Hey, I'm Ayush
+<img src="./images/logo.png" width="100"/>
 
-<img src="./images/logo.png" width="120" />
+<h1>👨‍💻 Hey, I'm Ayush</h1>
 
-<a href="https://ayushpai.com"><img src="https://img.shields.io/badge/Website-ayushpai.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<br>
 
-<a href="https://github.com/ayushkpai"><img src="https://img.shields.io/badge/GitHub-ayushkpai-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://ayushpai.com">
+<img src="https://img.shields.io/badge/🌐%20ayushpai.com-0F0C29?style=for-the-badge&labelColor=0F0C29&color=302B63"/>
+</a>
+
+<br><br>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 </div>
