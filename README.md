@@ -4,6 +4,10 @@
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,100:302B63&height=220&section=header&text=Ayush%20Pai&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<br>
+
 <img src="./images/logo.png" width="100"/>
 
 <h1>👨‍💻 Hey, I'm Ayush</h1>
