@@ -1,4 +1,4 @@
-### Ayush Pai
+### Ayush P `AI`
 
 <a href="https://ayushpai.com"><img src="https://ayushpai.com/images/logo.png" width="80" alt="Ayush Pai logo"/></a>
 
